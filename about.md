@@ -2,6 +2,7 @@
 layout: page
 navigation_title: About
 title: About the SDSF Seminar
+cover: 'http://www.deesidebusinessforum.co.uk/wp-content/uploads/2016/10/conference.jpg'
 permalink: /about/
 ---
 
