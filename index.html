@@ -4,7 +4,16 @@ cover: 'http://www.deesidebusinessforum.co.uk/wp-content/uploads/2016/10/confere
 ---
 
 <div class="home">
-    
+
+  <div class="clearfix">
+  <h1 class="event-time-heading fix-top">Scientific Rational </h1>
+  <div class="post-content">
+    <p align="justify">The Stockholm Data Science Forum Seminar seeks to bring together researchers from Stockholm University that are interested in applying data science and information theory to their work. We strongly emphasize an interdisciplinary character by connecting the fields of Astronomy/ Astrophysics/ Particle Physics/ Biology/ Computer Science/ Geo-Science / Engineering / Medicine / Mathematics and others. We believe that data science is the common ground on which researchers from these different areas can unite to find new solutions to outstanding problems. Amongst others the seminar addresses and presents various topics and techniques ranging from machine learning, image reconstruction, optimization algorithms, model testing, forecasting / prediction and parameter inference to the foundations of information theory and its implications.</p>
+
+  </div>
+
+  </div>
+
     {% capture currentDate %}{{'now' | date: '%s' }}{% endcapture %}
 
     <div class="clearfix">
@@ -16,7 +25,7 @@ cover: 'http://www.deesidebusinessforum.co.uk/wp-content/uploads/2016/10/confere
         {% capture blogDate %}{{post.date | date: '%s' }}{% endcapture %}
 
         {% if blogDate >= currentDate %}
-      
+
           <a href="{{ post.url | prepend: site.baseurl }}">
             {% if post.cover %}
             <div class="event-sqaure" style="background-image:url({{post.cover}});">
@@ -26,7 +35,7 @@ cover: 'http://www.deesidebusinessforum.co.uk/wp-content/uploads/2016/10/confere
               <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
                <div class='event-square-overlay'></div>
             </div>
-           
+
           </a>
 
         {% endif %}
@@ -46,12 +55,12 @@ cover: 'http://www.deesidebusinessforum.co.uk/wp-content/uploads/2016/10/confere
             {% if post.cover %}
             <div class="event-sqaure" style="background-image:url({{post.cover}});">
             {% else %}
-            <div class="event-sqaure" style="background-image:url(http://app-beacon.com/wp-content/uploads/2015/05/events.jpg);">
+            <div class="event-sqaure" style="background-image:url({{post.cover}});">
             {% endif %}
               <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
               <div class='event-square-overlay'></div>
             </div>
-            
+
           </a>
 
         {% endif %}
