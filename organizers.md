@@ -12,7 +12,7 @@ permalink: /organizers/
 {% for organiser in site.data.organisers %}
  <a >
   <div class="event-sqaure" style="background-image:url({{organiser.photo}});">
-  <h2>{{ post.title }} <span>
+  <h2><span>
   {{organiser.name}}<br>
   ({{organiser.affiliation}})
   </span></h2>
