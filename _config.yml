@@ -14,7 +14,7 @@ event_label: SDSF Seminars
 description:  # this means to ignore newlines until "baseurl:"
  <p>A webpage announcing seminar events of the Stockholm Data Science Forum.</p>
 
- <p>We are supported by</p>
+ <p>We acknowledge support by</p>
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sudsfs.github.io" # the base hostname & protocol for your site
