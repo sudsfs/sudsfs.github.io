@@ -17,7 +17,7 @@ description:  # this means to ignore newlines until "baseurl:"
  <p>We are supported by</p>
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://sudsfs.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
