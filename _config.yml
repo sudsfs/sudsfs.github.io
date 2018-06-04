@@ -11,8 +11,10 @@ title: The Stockholm Data Science Forum Seminar
 #What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
 event_label: SDSF Seminars
 
-description: > # this means to ignore newlines until "baseurl:"
- A webpage announcing seminar events of the Stockholm Data Science Forum.
+description:  # this means to ignore newlines until "baseurl:"
+ <p>A webpage announcing seminar events of the Stockholm Data Science Forum.</p>
+
+ <p>We are supported by</p>
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
@@ -24,4 +26,3 @@ markdown: kramdown
 future: true
 
 permalink: /event/:title.html
-
