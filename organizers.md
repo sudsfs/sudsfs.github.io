@@ -24,16 +24,4 @@ permalink: /organizers/
 {% endfor %}
 </ul>
 
-
-
-    {% capture currentDate %}{{'now' | date: '%s' }}{% endcapture %}
-
-    <div class="clearfix">
-    {% assign organiser = site.data.organisers.[page.organiser] %}
-    <a > {{organiser.name}}</a>
-      {% for post in site.data.organizers %}
-      <a > {{post.name}}</a>
-      {% endfor %}
-    </div>
-
 </div>
