@@ -2,7 +2,7 @@
 layout: page
 navigation_title: Code of Conduct
 title: Code of Conduct
-cover: 'http://www.deesidebusinessforum.co.uk/wp-content/uploads/2016/10/conference.jpg'
+cover: '/assets/images/banner.png'
 permalink: /code_of_conduct/
 ---
 
