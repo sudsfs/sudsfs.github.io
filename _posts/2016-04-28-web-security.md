@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "How To Learn machine learning"
-cover: "https://cdn-images-1.medium.com/max/1600/1*-IrKt__RJ7RGVllQCqBTjw.gif"
+cover: "/assets/images/gp.gif"
 date:   2016-04-03
 start_time: "10:00"
 end_time: "17:00"

@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Did You Start Bayes For Passion or Money?"
-cover: "https://cdn-images-1.medium.com/max/1600/1*-IrKt__RJ7RGVllQCqBTjw.gif"
+cover: "/assets/images/gp.gif"
 date:   2016-03-28
 start_time: "12:00"
 end_time: "13:00"
