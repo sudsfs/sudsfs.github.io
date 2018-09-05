@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "The best talk ever!"
-cover: "https://cdn-images-1.medium.com/max/1600/1*-IrKt__RJ7RGVllQCqBTjw.gif"
+cover: "/assets/images/gp.gif"
 date:   2018-09-28
 start_time: "14:00"
 end_time: "15:00"
