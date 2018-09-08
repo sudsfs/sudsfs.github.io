@@ -1,6 +1,6 @@
-# Evento
+# sudsfs seminar webpage
 
-Evento is a minimal, responsive theme for Jekyll. The projects allows people, groups or companies to host and show a list future and past events.
+SUDSFS is based on the Evento scheme, a minimal, responsive theme for Jekyll. The projects allows people, groups or companies to host and show a list future and past events.
 
 ### Features
 
@@ -13,8 +13,8 @@ Evento is a minimal, responsive theme for Jekyll. The projects allows people, gr
 
 ### Install and Test
 
-1. Download or clone repo `git clone git@github.com:boyney123/evento.git`
-2. Enter the folder: `cd evento/`
+1. Download or clone repo `git clone https://github.com/sudsfs/sudsfs.github.io.git`
+2. Enter the folder: `cd sudsfs/`
 4. Start Jekyll server: `jekyll serve`
 
 Access via: [http://localhost:4000](http://localhost:4000)
