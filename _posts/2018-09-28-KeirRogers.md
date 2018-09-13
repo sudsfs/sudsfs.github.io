@@ -8,7 +8,7 @@ cover: "/assets/images/gp.gif"
 date:   2018-09-28
 start_time: "14:00"
 end_time: "15:00"
-location: "The Cramér Room / Department of Mathematics / Stockholm University / Kräftriket, house no. 5 and 6"
+location: "The Cramér Room  (306, level 3)/ Department of Mathematics / Stockholm University / Kräftriket, house no. 6"
 
 #event speaker
 speaker_name: "Keir Rogers"
