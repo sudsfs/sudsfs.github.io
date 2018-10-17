@@ -62,4 +62,4 @@ Notes and references:
 
 [6] Daisuke Kihara, Hao Chen and Yifeng David Yang, “Quality Assessment of Protein Structure Models”, Current Protein & Peptide Science (2009) 10: 216. [link](https://doi.org/10.2174/138920309788452173)
 
-[7] Menéndez Hurtado D, Uziela K, Elofsson A, “Deep transfer learning in the assessment of the quality of protein models” (2018) arXiv:1804.06281
+[7] Menéndez Hurtado D, Uziela K, Elofsson A, “Deep transfer learning in the assessment of the quality of protein models” (2018) [arXiv:1804.06281](https://arxiv.org/abs/1804.06281)
