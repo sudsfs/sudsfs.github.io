@@ -22,4 +22,18 @@ The seminar schedule will be filled with local and external speakers. Presentati
 We invite you to actively join us in building a local Data Science community at Stockholm University, by attending our discussions, proposing speakers
 and suggesting interesting topics to be covered in this seminar series.
 </p>
+
+
+<p>
+If you want to be informed about all announcement with respect to this seminar serious but more generally all activities of the SU data science community
+Please sign up to the data science forum email-list here: </p>
+
+<a href="https://lists.math.su.se/mailman/listinfo/DataScience.SU"> Sign up for the data science forum email list </a>
+
+
+
+
+
+
+
 </div>
