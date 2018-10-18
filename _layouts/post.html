@@ -11,8 +11,12 @@ layout: default
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <h3 class="post-speakers-name">By {{page.speaker_name}} <font size="3">({{page.speaker_affil}})</font></h3>
     <h2 class="post-date"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</h2>
-    <h3 class="post-time">From {{ page.start_time}} to {{page.end_time }}</h3>
-    <h3 class="post-loc"> {{page.location }}</h3>
+    <h3 class="post-time">From {{ page.start_time}} to {{page.end_time }}</h3>	
+  {% if page.location_link %}
+    <h3 class="post-loc"> {{page.location }} (<a href={{page.location_link}}> find location here </a>)</h3>
+  {% else %}
+    <h3 class="post-loc"> {{page.location }} </h3>	
+  {% endif %}
   </header>
 
   {% if page.speaker_photo %}

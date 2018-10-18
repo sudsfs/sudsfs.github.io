@@ -9,6 +9,7 @@ date:   2018-12-14
 start_time: "14:00"
 end_time: "15:00"
 location: "TBD"
+location_link: 
 
 #event speaker
 speaker_name: "Tobias Rydén"
