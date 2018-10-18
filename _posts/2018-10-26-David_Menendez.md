@@ -16,7 +16,7 @@ location_link: https://www.kth.se/places/room/id/27a5a141-8803-4ec1-9795-d3afe3f
 #event speaker
 speaker_name: "David Menéndez Hurtado"
 speaker_affil: "Department of Biochemistry and Biophysics, Stockholm University"
-speaker_photo: 
+speaker_photo: "https://upload.wikimedia.org/wikipedia/en/5/52/Mark_I_perceptron.jpeg"
 
 
 #event organiser details
