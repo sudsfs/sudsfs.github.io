@@ -25,6 +25,14 @@ layout: default
 
     <div class="post-content" itemprop="articleBody">
     {{ content }}
+
+ {% if page.talk_link %}
+    <h4 class="post-talk_link"> <a href={{page.talk_link}}> Find the PDF document of the talk here! </a></h3>	
+ {% endif %}
+
+
+
+
   </div>
 
 
@@ -36,4 +44,8 @@ layout: default
         </div>
     {% endif %}
 -->
+
+ 
+
+
 </article>

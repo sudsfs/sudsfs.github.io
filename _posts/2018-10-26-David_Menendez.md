@@ -10,7 +10,7 @@ start_time: "14:00"
 end_time: "15:00"
 location: "Roslagstullsbacken 21, Huvudbyggnaden, våningsplan 5, AlbaNova Rumsnr: B5:1046 Lokalkod: FB54"
 location_link: https://www.kth.se/places/room/id/27a5a141-8803-4ec1-9795-d3afe3f40673
-
+talk_link: 
 
 
 #event speaker

@@ -9,7 +9,8 @@ date:   2018-09-28
 start_time: "14:00"
 end_time: "15:00"
 location: "The Cramér Room  (306, level 3)/ Department of Mathematics / Stockholm University / Kräftriket, house no. 6"
-location_link: 
+location_link:
+talk_link: "/assets/talks/talk_keir_rogers.pdf"
 
 #event speaker
 speaker_name: "Keir Rogers"
