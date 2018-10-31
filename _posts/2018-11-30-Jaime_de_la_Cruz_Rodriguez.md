@@ -1,0 +1,32 @@
+---
+layout: post
+
+#event information
+shorttitle:  "Solving non-linear ill-posed problems with the Levenberg-Marquardt algorithm."
+title:  "Solving non-linear ill-posed problems with the Levenberg-Marquardt algorithm."
+cover: "/assets/images/gp.gif"
+date:   2018-11-30
+start_time: "14:00"
+end_time: "15:00"
+location: "TBD"
+location_link: 
+talk_link: 
+
+
+#event speaker
+speaker_name: "Jaime de la Cruz Rodriguez"
+speaker_affil: "Astronomy Department"
+speaker_photo: 
+
+
+#event organiser details
+organiser: "Emir Karamehmetoglu"
+
+---
+The Levenberg-Marquardt algorithm (LM) is an iterative method that allows to fit data with a non-linear model.
+LM is particularly well suited for solving  problems where the calculation of derivatives of the model prediction is computationally challenging.
+When the model parameters are well constrained by the model that we are employing, the algorithm is usually very robust. 
+However, there are applications where the model parameters are not well constrained by the data in that case the solution can be degenerate.
+I have implemented l-2 regularization into the Levenberg-Marquardt algorithm in order to solve problems with large number of parameters and to reduce the degeneracy of the solution, based on prior information.
+
+In this talk I will discuss the derivation of this algorithm and the effect of different regularization functions in the solution.
