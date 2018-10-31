@@ -16,7 +16,7 @@ talk_link:
 #event speaker
 speaker_name: "Jaime de la Cruz Rodriguez"
 speaker_affil: "Astronomy Department"
-speaker_photo: 
+speaker_photo: https://www.astro.su.se/polopoly_fs/1.345859!/image/image.jpg_gen/derivatives/article_505/image.jpg 
 
 
 #event organiser details
