@@ -8,8 +8,8 @@ cover: "/assets/images/gp.gif"
 date:   2018-11-30
 start_time: "14:00"
 end_time: "15:00"
-location: "TBD"
-location_link: 
+location: "The Cramér Room  (306, level 3)/ Department of Mathematics / Stockholm University / Kräftriket, house no. 6"
+location_link:
 talk_link: 
 
 
