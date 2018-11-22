@@ -8,8 +8,8 @@ cover: "/assets/images/gp.gif"
 date:   2018-11-30
 start_time: "14:00"
 end_time: "15:00"
-location: "The Cramér Room  (306, level 3)/ Department of Mathematics / Stockholm University / Kräftriket, house no. 6"
-location_link:
+location: "The Cramér Room  (306, level 3)/ Department of Mathematics / Stockholm University / Kräftriket, house no. 6 (easier from 6B)"
+location_link: https://www.su.se/polopoly_fs/1.294747.1504850221!/menu/standard/file/SU%20kartor%20Original%20Kräftriket%2020170817.pdf
 talk_link: 
 
 
