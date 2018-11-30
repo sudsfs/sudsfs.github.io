@@ -22,4 +22,17 @@ speaker_photo:
 organiser: "Jens Jasche"
 
 ---
-TBD
+During the past 20 years or so, building models in a data-driven way by
+using loss-penalty paradigms, regularisation, cross-validation, etc.
+has become increasingly popular. Sparsity, in the general sense of
+a limited number of non-zero "entities", is a widely used concept
+in this context. Sparsity provides a particular form of regularisation
+that favours model interpretability.
+
+Sparsity may be in terms of individual parameters, groups of parameters,
+singular values of matrices (low rank models), and more.
+Sparsity is often obtained by regularisation with L1-norms and variants
+thereof, leading to non-differentiable convex optimisation problems.
+I will talk about statistical models providing sparsity, the optimisation
+problems that come with them, and a little about how these problems 
+can be solved. Illustrations will be given with examples from e.g. the life sciences.
