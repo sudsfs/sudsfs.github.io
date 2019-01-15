@@ -15,7 +15,7 @@ talk_link:
 #event speaker
 speaker_name: "Justin Alsing"
 speaker_affil: "Department of Physics"
-speaker_photo: 
+speaker_photo: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Thomas_Bayes.gif"
 
 
 #event organiser details
