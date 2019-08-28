@@ -8,8 +8,8 @@ cover: "/assets/images/gp.gif"
 date:   2019-08-30
 start_time: "14:00"
 end_time: "15:00"
-location: "TBD"
-location_link:
+location: "Room 306, House 6, Kräftriket, Department of Mathematics, Stockholm University"
+location_link: https://www.su.se/polopoly_fs/1.294747.1504850221!/menu/standard/file/SU%20kartor%20Original%20Kräftriket%2020170817.pdf
 talk_link: 
 
 #event speaker
