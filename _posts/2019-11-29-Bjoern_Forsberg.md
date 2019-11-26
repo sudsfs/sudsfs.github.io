@@ -22,4 +22,4 @@ organiser: "Jens Jasche"
 
 ---
 In the field of cryo-electron microscopy, very noisy images of biomolecules are classified and aligned to produce faithful representations of biological machinery such as viruses, proteins and DNA. When this processing produces faithful results, a wealth of biological knowledge is available. This has lead to a large influx of biologically oriented scientists attempting to use sophisticated computational methods. In this seminar, an overview is given of the canonical methods used to classify such data, including examples of how it is instrumental to the success of the method. More importantly however, its shortcomings, pitfalls and possible misinterpretations is further described, hopefully leading to a fruitful discussion about its possible future directions.
-Please let me know if you plan to go so that we can all gather at the lobby of SciLifeLab and enter the building together.
+
