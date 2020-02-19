@@ -4,6 +4,7 @@ layout: post
 #event information
 shorttitle:  "Challenges to faithful classification of electron microscopy data of biological molecules"
 title:  "Challenges to faithful classification of electron microscopy data of biological molecules"
+cover: "/assets/images/gp.gif"
 date:   2019-11-29
 start_time: "09:00"
 end_time: "10:00"
