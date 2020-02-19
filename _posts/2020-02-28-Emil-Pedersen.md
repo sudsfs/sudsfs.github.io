@@ -21,10 +21,8 @@ speaker_photo:
 organiser: "Raffaella Capasso"
 
 ---
-Can you easily apply machine learning to new problems? Can you easily extract insights from these models?
-Do you know common pitfall, trade-offs and optimization tennicques. In other words, is Machine Learning just another tool in your tool box? 
-or is it more of an exotic audacious project?
-In this talk and discussion, Emil Pedersen, will walk through a down to earth practical approach to machine learning with an emphasis on
+Can you easily apply machine learning to new problems? Can you easily extract insights from these models? Do you know common pitfall, trade-offs and optimization tennicques. In other words, is Machine Learning just another tool in your tool box? 
+or is it more of an exotic audacious project? In this talk and discussion, Emil Pedersen, will walk through a down to earth practical approach to machine learning with an emphasis on
 
 1) Interpretable models (SHAP features)
 
