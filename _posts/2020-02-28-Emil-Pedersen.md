@@ -8,8 +8,8 @@ cover: "/assets/images/gp.gif"
 date:   2020-02-28
 start_time: "15:00"
 end_time: "16:00"
-location: "Andromeda and Milkyway (in Alfa 2) SciLifeLab (To enter the building, please talk to the reception at the lobby to contact either Björn Forsberg or Arne Elofsson)"
-location_link: 
+location: "Roslagstullsbacken 21, Huvudbyggnaden, våningsplan 5, KTH AlbaNova Rumsnr: B5:1046 Lokalkod: FB54"
+location_link: https://www.kth.se/places/room/id/27a5a141-8803-4ec1-9795-d3afe3f40673
 
 
 #event speaker
