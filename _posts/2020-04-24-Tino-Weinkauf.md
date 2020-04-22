@@ -9,7 +9,7 @@ date:   2020-04-24
 start_time: "14:00"
 end_time: "15:00"
 location: "Remote meeting via Zoom"
-location_link: https://www.kth.se/places/room/id/27a5a141-8803-4ec1-9795-d3afe3f40673
+location_link: https://stockholmuniversity.zoom.us/j/61414876493
 
 
 #event speaker
