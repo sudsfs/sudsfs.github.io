@@ -14,7 +14,8 @@ location_link: https://stockholmuniversity.zoom.us/j/61414876493
 
 #event speaker
 speaker_name: "Tino Weinkauf"
-speaker_affil: "School of Electrical Engineering and Computer Science, KTH"
+speaker_affil: "School of Electrical Engineering and Computer Science,
+ KTH"
 speaker_photo: "https://www.kth.se/files/avatar/weinkauf"
 
 #event organiser details
